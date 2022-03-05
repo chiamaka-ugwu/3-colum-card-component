@@ -22,7 +22,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: [https://chiamaka-ugwu.github.io/3-colum-card-component/](https://chiamaka-ugwu.github.io/3-colum-card-component/)
+- Live Site URL: [https://chiamaka-ugwu.github.io/3-column-card-component/](https://chiamaka-ugwu.github.io/3-column-card-component/)
 
 ## My process
 
